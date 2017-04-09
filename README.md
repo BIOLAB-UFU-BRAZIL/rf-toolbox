@@ -1,5 +1,5 @@
 # rf-toolbox
-Bibliotecas e exemplos de uso do transpornder nRF24Le1 e semelhantes.
+Bibliotecas e exemplos de uso do transponder nRF24Le1 e semelhantes.
 
 ## nRF24Le1
 
